@@ -1,0 +1,22 @@
+{
+  "name": "lms-ng-fhir",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.1.2",
+    "@angular/core": "^8.1.2",
+    "angular2-uuid": "^1.1.1"
+  },
+  "main": "bundles/lms-ng-fhir.umd.js",
+  "module": "fesm5/lms-ng-fhir.js",
+  "es2015": "fesm2015/lms-ng-fhir.js",
+  "esm5": "esm5/lms-ng-fhir.js",
+  "esm2015": "esm2015/lms-ng-fhir.js",
+  "fesm5": "fesm5/lms-ng-fhir.js",
+  "fesm2015": "fesm2015/lms-ng-fhir.js",
+  "typings": "lms-ng-fhir.d.ts",
+  "metadata": "lms-ng-fhir.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
